@@ -7,7 +7,7 @@ output: pagedown::html_resume
 
 Aside
 ====================================
- ![](logo.jpg){width=1.5in} 
+<i class="fas fa-chart-line fa-10x"></i>
 
 Contact
 ------------------------------------
@@ -15,24 +15,32 @@ Contact
 - <i class="fab fa-github"></i> EarlMacalam
 - <i class="fas fa-phone-volume"></i> (+63) 998 945 1143
 
-Skills
+Language Skills
+------------------------------------
+
+- <i class="fas fa-terminal"></i> R
+- <i class="fas fa-terminal"></i> Python
+- <i class="fas fa-terminal"></i> SAS
+
+Technical Skills
 ------------------------------------
 
 - <i class="fas fa-terminal"></i> Data Analysis
 - <i class="fas fa-terminal"></i> Statistical Analysis
 - <i class="fas fa-terminal"></i> Data Visualization
-- <i class="fas fa-terminal"></i> R Programming
-- <i class="fas fa-terminal"></i> Latex
+- <i class="fas fa-terminal"></i> Mathematical Modelling
+
 
 Disclaimer
 ------------------------------------
 
-
 Main
 ====================================
 
-Earl Patrick B. Macalam {#title}
+Earl Patrick Macalam {#title}
 ------------------------------------
+
+Currently searching for a position that allows me to use statistical tools leveraging a combination of data visualization, data analysis, statistical analysis, and mathematical modeling to help people explore and understand their data in useful ways. 
 
 Education {data-icon=graduation-cap}
 ------------------------------------
@@ -47,6 +55,9 @@ Present - 2018
 
 Thesis Stage
 
+Relevant Coursework: Statistical Software, Business Analytics, The Practice
+of Statistics, Cases in Statistical Consulting, Nonparametric Methods, Probability Theory, Data Mining, Computational Statistics
+
 ### BS Mathematics
 
 Mindanao State University
@@ -55,10 +66,61 @@ General Santos City
 
 2018 - 2014
 
-Relevant Courses Taken {data-icon=chalkboard-teacher}
+Thesis: On the necessary and sufficient condition that an element $\alpha + b\omega$ in $\mathbb{Z}[\omega]$ is Eisenstein prime
+
+Online Courses and Webinars {data-icon=chalkboard-teacher}
 ------------------------------------
 
-### Statistical Software
+### Machine Learning for Data Science
+
+Free webinar on machine learning.
+
+N/A
+
+Novermber 14, 2020
+
+Machine learning concepts, techniques, and methods.
+
+
+### R Beyond RAM / R on the Cloud
+
+R User Group - Philippines (Webinar)
+
+N/A
+
+July 22, 2020
+
+Tackle R's limitation in handling large datasets and in-memory operations, confined within our RAM, tips and tricks on how to go beyond our RAM.
+
+
+### Data Science Specialization by Jhons Hopkins University
+
+Coursera free online course
+
+N/A
+
+N/A
+
+Concepts and tools needed in the entire data science pipeline, inferences, modelling, data visualization, and publishing results.
+
+### Python & Machine Learning for Financial Analysis
+
+Udemy free online course
+
+N/A
+
+N/A
+
+Python programming fundamentals and application to solve real world finance and banking problems using machine learning.
+
+::: aside
+I have also knowledge on handling time series data using R and Python.
+:::
+
+Selected Writing {data-icon=newspaper}
+------------------------------------
+
+### On Relative Fit Evaluation of C-G-DINA and C-DINA Models
 
 N/A
 
@@ -66,19 +128,9 @@ N/A
 
 N/A
 
-Database management and programming using statistical software.
+Model comparison of two cognitive diagnosis model using various fit statistics on simulated data by R.
 
-### Business Analytics
-
-N/A
-
-N/A
-
-N/A
-
-Principles of data mining; methods of data mining; themes of data mining; applications of data mining in business intelligence.
-
-### Statistical Consulting
+### An analysis on GDP and Self-rated Poverty
 
 N/A
 
@@ -86,17 +138,127 @@ N/A
 
 N/A
 
-Application of statistical concepts and methodologies to data of researchers seeking statistical consultancy services.
+Investigating the relationship between self-rated poverty and GDP using the economic data obtained from World Bank and SWS by various statistical analysis.
 
-### Probability Theory
-
-N/A
+### Data Analysis on Shopping Data
 
 N/A
 
 N/A
 
-Probability spaces and random variables; probability distributions and distribution functions; mathematical expectation; convergence of sequences of random variables; laws of large numbers; characteristic functions.
+N/A
+
+Data visualization, data wrangling, and data analysis on shopping data as an application to various statiscal tools, e.g, R, SAS, and Python.
+
+::: aside
+On my free time, I do data analysis exercises on data from Kaggle.
+https://github.com/EarlMacalam/Data-Wrangling-Exercises
+:::
+
+Seminars and Lectures Attended {data-icon=tasks}
+------------------------------------
+
+### Statistics in Real Life: A Telco Example
+
+Lecture Hall 1          
+
+UP - School of Statistics
+
+March 5, 2020
+
+### Testing the Hypothesis "X is necessary but not sufficient for Y"
+
+Lecture Hall 1          
+
+UP - School of Statistics
+
+August 30, 2019
+
+Professorial Chair Lecture Series
+
+### Saan Ka Lulugar?: Exploring the Spatial Scatter of Competing Business Center Towards Optimizing Future Branch Locations
+
+Lecture Hall 1          
+
+UP - School of Statistics
+
+August 29, 2019
+
+Professorial Chair Lecture Series
+
+### Implementing Surveys via Computer-Assisted Personal Interview (CAPI) and Computer-Assisted Web Interview (CAWI) using CSPro and Survey Solutions
+
+Lecture Hall 1          
+
+UP - School of Statistics
+
+August 28, 2019
+
+Professorial Chair Lecture Series
+
+### Understanding Variabili-tea in Text Data: Application of Text Analytics on Social Media Data
+
+Lecture Hall 1          
+
+UP - School of Statistics
+
+August 28, 2019
+
+Professorial Chair Lecture Series
+
+### Spectral and Heritability Analysis of EEG Time Series data using a Nested Dirichlet Process
+
+Lecture Hall 1          
+
+UP - School of Statistics
+
+August 28, 2019
+
+Colloquium on the  Statistical Sciences            
+
+### Data Processing and Statistical Analysis
+
+Science & Technology Training Center
+
+MSU - GenSan
+
+October 4, 2017
+
+### An Introduction on Graphs and Domination Theory
+
+Science & Technology Training Center
+
+MSU - GenSan
+
+September 6, 2017
+
+### Seminar on Latex Application
+
+Science & Technology Training Center
+
+MSU - GenSan
+
+August 17, 2017
+
+Organizations {data-icon=sitemap}
+------------------------------------
+
+### Organization of Mathematics and Natural Sciences Students
+
+Member        
+
+MSU - GenSan        
+
+2018 - 2014
+
+### Society of Mathematics Students
+
+Member        
+
+MSU - GenSan        
+
+2018 - 2014
+
 
 Awards and Scholarships {data-icon=award}
 ------------------------------------
@@ -124,3 +286,15 @@ Mindanao State University - GenSan
 N/A     
 
 March 16, 2018
+
+
+
+
+
+
+
+
+
+
+
+

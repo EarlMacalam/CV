@@ -1,0 +1,132 @@
+---
+title: "My Resume"
+author: Earl Patrick Macalam
+output: pagedown::html_resume
+---
+
+Aside
+====================================
+ <i class="fas fa-chart-line fa-10x"></i>
+<!-- ![](logo8.png){width=2.5in}  -->
+
+Contact
+------------------------------------
+- <i class="fas fa-envelope"></i> ebmacalam@up.edu.ph
+- <i class="fab fa-github"></i> EarlMacalam
+- <i class="fas fa-phone-volume"></i> (+63) 998 945 1143
+
+Language Skills
+------------------------------------
+
+- <i class="fas fa-terminal"></i> R
+- <i class="fas fa-terminal"></i> Python
+- <i class="fas fa-terminal"></i> SAS
+- <i class="fas fa-terminal"></i> Latex
+
+Technical Skills
+------------------------------------
+
+- <i class="fas fa-terminal"></i> Data Analysis
+- <i class="fas fa-terminal"></i> Statistical Analysis
+- <i class="fas fa-terminal"></i> Data Visualization
+- <i class="fas fa-terminal"></i> Mathematical Modelling
+
+Disclaimer
+------------------------------------
+
+Main
+====================================
+
+Earl Patrick Macalam {#title}
+------------------------------------
+
+Currently searching for a position that allows me to use statistical tools leveraging a combination of data visualization, data analysis, statistical analysis, and mathematical modeling to help people explore and understand their data in useful ways. 
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### MS Statistics
+
+University of the Philippines
+
+Diliman, Quezon City
+
+Present - 2018
+
+### BS Mathematics
+
+Mindanao State University
+
+General Santos City
+
+2018 - 2014
+
+Relevant Courses Taken {data-icon=chalkboard-teacher}
+------------------------------------
+
+### Statistical Software
+
+N/A
+
+N/A
+
+N/A
+
+Database management and programming using statistical software.
+
+### Business Analytics
+
+N/A
+
+N/A
+
+N/A
+
+Principles of data mining; methods of data mining; themes of data mining; applications of data mining in business intelligence.
+
+### Statistical Consulting
+
+N/A
+
+N/A
+
+N/A
+
+Application of statistical concepts and methodologies to data of researchers seeking statistical consultancy services.
+
+### Probability Theory
+
+N/A
+
+N/A
+
+N/A
+
+Probability spaces and random variables; probability distributions and distribution functions; mathematical expectation; convergence of sequences of random variables; laws of large numbers.
+
+Awards and Scholarships {data-icon=award}
+------------------------------------
+
+### Commission on Higher Education (CHED) Scholar
+
+Mindanao State University - GenSan
+
+N/A     
+
+2018 - 2014
+
+### Department of Science and Technology Accelerated Science and Technology Human Resources Development Program (DOST-ASTHRDP) Scholar 
+
+University of the Philippines - Diliman
+
+N/A     
+
+2020 - 2018
+
+### Wizard's Night 2k18 Mathematician of the Year 
+
+Mindanao State University - GenSan
+
+N/A     
+
+March 16, 2018
